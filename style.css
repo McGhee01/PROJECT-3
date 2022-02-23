@@ -1,0 +1,17 @@
+.btn {
+    border-radius: 6px;
+    border-style: double;
+    border-color: red;
+}
+
+.btn2 {
+    border-radius: 6px;
+    border-style: double;
+    border-color:teal;
+}
+
+.btn3 {
+    border-radius: 6px;
+    border-style: double;
+    border-color:orange;
+}
